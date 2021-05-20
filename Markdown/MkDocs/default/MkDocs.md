@@ -1,4 +1,8 @@
-https://pagestatic.gitlab.io/markdown/mkdocs/default
+/Volumes/dev/site/GitHub/Check/Markdown/MkDocs/default/.my.md
+
+
+
+<!-- https://pagestatic.gitlab.io/markdown/mkdocs/default
 https://gitlab.com/pagestatic/markdown/mkdocs/default
 /Volumes/dev/site/Markdown/MkDocs/default
 
@@ -11,5 +15,5 @@ https://gitlab.com/pages/mkdocs/-/blob/master/.gitlab-ci.yml
 site_url: https://gitlab.com/pagestatic/markdown/mkdocs/default
 
 + add file requirements.txt
-https://gitlab.com/pages/mkdocs/-/blob/master/requirements.txt
+https://gitlab.com/pages/mkdocs/-/blob/master/requirements.txt -->
 
